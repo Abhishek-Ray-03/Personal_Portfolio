@@ -1,0 +1,85 @@
+[
+    
+    {
+      "name": "CV/Resume Builder",
+      "desc": "The Resume Builder project is a web application developed using React.js, designed to assist users in creating professional resumes effortlessly.",
+      "image": "ResBuilder",
+      "category": "mern",
+      "links": {
+        "view": "https://resumegenerator03.netlify.app/",
+        "code": "https://github.com/Abhishek-Ray-03/Resume_Generator"
+      }
+    },
+    {
+      "name": "To-Do App",
+      "desc": "The To-Do App is a simple web application created using HTML, CSS, and JavaScript, designed to help users organize their tasks effectively.",
+      "image": "todo",
+      "category": "mern",
+      "links": {
+        "view": "https://abhishek-ray-03.github.io/To-Do-App/",
+        "code": "https://github.com/Abhishek-Ray-03/To-Do-App"
+      }
+    },
+    {
+      "name": "Rock Paper Scissors",
+      "desc": "The Rock, Paper, Scissors Game is a web-based application developed using HTML, CSS, and JavaScript. It simulates the classic game to determine the winner based on predefined rules.",
+      "image": "StonePaperSciGame",
+      "category": "mern",
+      "links": {
+        "view": "https://abhishek-ray-03.github.io/Rock-Paper-Scissors/",
+        "code": "https://github.com/Abhishek-Ray-03/Rock-Paper-Scissors"
+      }
+    },
+    {
+      "name": "Currency Converter",
+      "desc": "JS-based currency converter using real-time API for instant currency exchange.",
+      "image": "Currency",
+      "category": "mern",
+      "links": {
+        "view": "https://abhishek-ray-03.github.io/Currency-Converter/",
+        "code": "https://github.com/Abhishek-Ray-03/Currency-Converter"
+      }
+    },
+    {
+      "name": "Focus Timer (Chrome Extn.)",
+      "desc": "A Chrome extension leveraging web APIs for a focused productivity timer, enhancing workflow efficiency with customizable time management tools.",
+      "image": "focustimer",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Abhishek-Ray-03/Focus_Timer"
+      }
+    },
+  
+    {
+      "name": "Portfolio Website",
+      "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+      "image": "portfolio",
+      "category": "mern",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Abhishek-Ray-03/Personal_Portfolio"
+      }
+    },
+    {
+      "name": "Cat vs Dog Image Classifier Using ML",
+      "desc": "A CNN model using Adam optimisation and regularisation techniques to classify images of cats and dogs with high accuracy.",
+      "image": "imgclassifier",
+      "category": "machine learning",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Abhishek-Ray-03/Cats-vs-Dogs-Classification"
+      }
+    },
+    {
+      "name": "Delhi Real Estates Price Predictor",
+      "desc": "Predictive model for Delhi real estate prices, leveraging data analysis and machine learning algorithms to forecast property values.",
+      "image": "RealEstates",
+      "category": "machine learning",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/Abhishek-Ray-03/Real-Estate-Price-Predictor"
+      }
+    }
+    
+  ]
